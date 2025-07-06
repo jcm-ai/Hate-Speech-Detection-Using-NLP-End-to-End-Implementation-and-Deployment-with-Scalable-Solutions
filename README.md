@@ -10,3 +10,9 @@
 
 ## Solution:
 *The project is structured as follows:*
+
+1. **Data Ingestion:** We start by ingesting the hate speech dataset, ensuring it is clean and ready for analysis.
+2. **Preprocessing:** We preprocess the data, including tokenization, normalization, and removal of stop words.
+3. **Model Training:** We train a machine learning model to classify hate speech based on the preprocessed data.
+4. **Model Deployment:** The trained model is deployed as a web service using a scalable framework like FastAPI.
+5. **Monitoring and Scaling:** We monitor the performance of the deployed model and scale the system as needed, ensuring it can handle increased traffic without compromising accuracy.
