@@ -16,3 +16,6 @@
 3. **Model Training:** We train a machine learning model to classify hate speech based on the preprocessed data.
 4. **Model Deployment:** The trained model is deployed as a web service using a scalable framework like FastAPI.
 5. **Monitoring and Scaling:** We monitor the performance of the deployed model and scale the system as needed, ensuring it can handle increased traffic without compromising accuracy.
+
+## Workflow:
+*The project workflow is as follows:*
